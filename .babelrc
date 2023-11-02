@@ -3,6 +3,6 @@
     "modules": false,
     "loose": true
   }]],
-  "plugins": ["transform-object-rest-spread"],
+  "plugins": ["transform-object-rest-sprea
   "comments": false
 }
